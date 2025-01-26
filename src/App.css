@@ -1,0 +1,219 @@
+.navbar{
+  height:120px;
+  width: 100%;
+
+}
+
+.herosection{
+  height: 650px;
+  width:100%;
+  overflow: hidden;
+
+}
+
+.heroSection{
+  height: 300px;
+  width:100%;
+  overflow: hidden;
+}
+
+.About{
+  position:relative;
+}
+
+.about{
+  height: 850px;
+  width:100%;
+  overflow: hidden;
+
+}
+
+.smallbanner{
+  width: 100%;
+  overflow: hidden;
+}
+
+.frame{
+  width: 100%;
+  overflow: hidden;
+}
+
+.ServiceSection{
+  width: 100%;
+  overflow: hidden;
+}
+
+.head{
+  font-size: 50px;
+} 
+.border1{
+  /* border: 1px solid black; */
+  width: 50%;
+  text-align: center;
+}
+
+.para{
+  
+  /* border: 1px solid black; */
+  width: 280px;
+  font-size: 10px;
+  padding-top: 10px;
+}
+/* Navbar Styling */
+
+.Address{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+  
+  /* border: 1px solid black; */
+ 
+}
+
+.Add1{
+  /* border: 1px solid black; */
+}
+
+.Add2{
+  /* border: 1px solid black; */
+}
+
+.colorAdd{
+  color:  #2563EB;
+ font-size: 16px;
+  font-weight: 700;
+  padding-top: 15px;
+  
+}
+
+.visit1{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+ position: relative;
+ /* border: 1px solid black; */
+  
+}
+
+.visit{
+  /* position: absolute; */
+  
+  width: 20px;
+}
+
+.visit2{
+  width: 25px;
+  margin-top: -20px;
+}
+
+.para1{
+  font-size: 12px;
+   margin-top: -10px;
+  font-weight: 500;
+  width: 160px;
+  text-align: start;
+  
+}
+
+.para2{
+  font-size:12px ;
+  font-weight: 500;
+  text-align: start;
+  margin-top: -20px;
+}
+
+.para3{
+  font-size:12px ;
+  font-weight: 500;
+  text-align: start;
+
+}
+.para4{
+  font-size:12px ;
+  font-weight: 500;
+  text-align: start;
+  margin-top: -15px;
+}
+
+.para5{
+  font-size:15px ;
+  font-weight: 500;
+  text-align: start;
+ 
+}
+
+.para6{
+  font-size:12px ;
+  font-weight: 500;
+  text-align: start;
+  margin-top: -20px;
+}
+.contactDetails{
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+  justify-content: center;
+}
+
+.box2{
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.mailBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContactUsbox1{
+  display: flex;
+  padding-top: 50px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #F3F4F6;
+
+}
+
+.ContactUsbox{
+  background: #F3F4F6;
+}
+
+
+.FormIMg{
+  height: 400px;
+}
+
+.findus{
+  padding-top: 20px;
+}
+
+.FindusBox{
+  display: flex;
+  justify-content: center; /* Horizontally centers the image */
+  align-items: center; /* Vertically centers the image */
+   /* Makes the container take the full viewport height */
+  background-color: #f0f0f0; /* Optional: Adds a background for better visualization */
+}
+
+
+.location{
+  width: 80%;
+  height: 400px;
+  overflow: hidden;
+  padding-top: 20px;
+}
+
+.footer{
+  overflow: hidden;
+  width: 100%;
+  padding-top: 50px;
+  height: 450px;
+}
