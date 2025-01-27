@@ -5,13 +5,14 @@ const HeroSubSection = () => {
   return (
     <div className="container text-center ">
       <div className="row justify-content-center">
-        <div className="col-12 col-md-8">
+        {/* <div className="col-12 col-md-8"> */}
           <img 
             src={animated} 
             alt="animated" 
-            className="img-fluid heroSection rounded" 
+            // style={{width:"100%"}}
+            className="img-fluid" 
           />
-        </div>
+        {/* </div> */}
       </div>
     </div>
   );
