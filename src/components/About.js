@@ -4,9 +4,9 @@ import smallbanner from './Smallbanner.png';
 
 const About = () => {
   return (
-    <div className="container py-5">
+    <div className="container ">
       {/* About Section */}
-      <div className="text-center mb-4">
+      <div className="text-center">
         <img 
           src={AboutSection} 
           alt="About Section" 

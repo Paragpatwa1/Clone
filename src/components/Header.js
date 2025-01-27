@@ -3,7 +3,7 @@ import NavbarImg from './Navbarsection.png';
 
 const Header = () => {
   return (
-    <div className="container-fluid py-3">
+    <div className="container-fluid ">
       <div className="text-center">
         <img 
           src={NavbarImg} 

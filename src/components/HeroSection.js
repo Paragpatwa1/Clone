@@ -3,7 +3,7 @@ import herosection from './hero section.png';
 
 const HeroSection = () => {
   return (
-    <div className="container-fluid p-0">
+    <div className="container-fluid ">
       <div className="text-center">
         <img 
           src={herosection} 

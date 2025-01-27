@@ -3,7 +3,7 @@ import animated from './animated counter.png';
 
 const HeroSubSection = () => {
   return (
-    <div className="container text-center my-5">
+    <div className="container text-center ">
       <div className="row justify-content-center">
         <div className="col-12 col-md-8">
           <img 

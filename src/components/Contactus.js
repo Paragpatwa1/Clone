@@ -9,9 +9,9 @@ import footer from './footer.png';
 
 const Contactus = () => {
   return (
-    <div className="container py-5">
+    <div className="container ">
       {/* Contact Us Header */}
-      <div className="text-center mb-5">
+      <div className="text-center ">
         <h1 className="display-5 fw-bold">Contact Us</h1>
         <p className="text-muted">
           Get in touch with Jash Corporation to explore how we can support

@@ -4,7 +4,7 @@ import ServiceSection from './Servicesection.png';
 
 const Frame = () => {
   return (
-    <div className="container py-5">
+    <div className="container">
       {/* Frame Image */}
       <div className="text-center mb-4">
         <img 
